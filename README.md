@@ -53,5 +53,4 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Different order status are Delivered, Refunded, Returned, Cancelled.
 - Maharastra has the most sales followed by Karnataka, Andra Pradesh, Telangana, Tamil Nadu.
 - Amazon is contributing maximum sales.
-- 
 💻📊
