@@ -13,6 +13,8 @@
 
 This project is a comprehensive analysis of store data aimed at uncovering crucial business insights. The analysis focuses on various aspects such as order trends, sales distribution, customer demographics, and sales channels. The entire analysis is conducted using Microsoft Excel.
 
+![Data visualization](https://github.com/user-attachments/assets/b8b4230c-a32e-4c91-bb6f-75993393f757)
+
 ### Data Source:
 Sales Data: The primary dataset used for this analysis is the "VrindaStore_salesData.csv" file, containing detailed information about each sales by the company.
 
@@ -51,4 +53,5 @@ EDA involved exploring the sales data to answer key questions, such as:
 - Different order status are Delivered, Refunded, Returned, Cancelled.
 - Maharastra has the most sales followed by Karnataka, Andra Pradesh, Telangana, Tamil Nadu.
 - Amazon is contributing maximum sales.
-
+- 
+💻📊
