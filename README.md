@@ -1,4 +1,4 @@
-# Vrinda_store_dataAnalysis
+# VrindaStore_dataAnalysis
 This project is a comprehensive analysis of store data aimed at uncovering crucial business insights. The analysis focuses on various aspects such as order trends, sales distribution, customer demographics, and sales channels. The entire analysis is conducted using Microsoft Excel.
 
 # Key Analyses:
