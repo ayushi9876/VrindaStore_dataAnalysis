@@ -12,6 +12,6 @@ This project is a comprehensive analysis of store data aimed at uncovering cruci
 **Microsoft Excel**: Used for data cleaning, analysis, pivot tables, and visualizations.
 
 ## Outcomes:
--Clear understanding of sales patterns across demographics and regions.
--Insights into the most effective sales channels and customer segments.
--Data-driven recommendations to improve sales strategies and target key markets.
+- Clear understanding of sales patterns across demographics and regions.
+- Insights into the most effective sales channels and customer segments.
+- Data-driven recommendations to improve sales strategies and target key markets.
