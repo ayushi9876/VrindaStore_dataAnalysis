@@ -1,13 +1,14 @@
 # VrindaStore_SalesAnalysis
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Data Source](#data-source)
-- [Tools](#tools)
-- [Data Cleaning](#data-cleaning)
-- [Exploratory data analysis](#exploratory-data-analysis)
-- [Key Analysis](#key-analysis)
-- [Outcomes](#outcomes)
+| Sr No. |  Table of Contents |
+|-------- |--------------------|
+| 1 |  [Project Overview](#project-overview) |
+| 2 | [Data Source](#data-source) |
+| 3 | [Tools](#tools) |
+| 4 | [Data Cleaning](#data-cleaning) |
+| 5 | [Exploratory data analysis](#exploratory-data-analysis) |
+| 6 | [Key Analysis](#key-analysis) |
+| 7 | [Outcomes](#outcomes) |
 
 ## Project Overview
 
